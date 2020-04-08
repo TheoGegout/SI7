@@ -16,3 +16,4 @@ class DiaryController extends Controller
         return $this->render('diary/index.html.twig');
     }
 }
+//vroumvroum ceci est un test
